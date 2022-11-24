@@ -39,15 +39,15 @@ In the screenshot for the Dashboard shown below I used as filter the line of pro
 
 ![DB2](https://user-images.githubusercontent.com/114177420/203733312-7a680931-bc2a-421d-8c1e-346c260329c8.JPG)
 
-* **3. Relation in between Gender, type of customer and date with location, total amount of income and total count of customers**.
+* **3. Relation in between type of payment used and When, Where, How Much**.
 
-In the screenshot for the Dashboard shown below I used as filter just Female customers for check which numbers come asociated with this type of client
+In the screenshot for the Dashboard shown below I used as filter the operations that where paid with cash to check where, when, how much(income) and how many(clients) were asociated with cash payments
 
 ![DB3](https://user-images.githubusercontent.com/114177420/203732158-294304e8-b230-4859-8c45-72b3d45bdf43.JPG)
 
-* **4. Relation in between Gender, type of customer and date with location, total amount of income and total count of customers**.
+* **4. Relation in between timeschedule and the gender and place**.
 
-In the screenshot for the Dashboard shown below I used as filter just Female customers for check which numbers come asociated with this type of client
+In the screenshot for the Dashboard shown below I used as filter Male customers to check their timeschedule habitudes
 
 ![DB4](https://user-images.githubusercontent.com/114177420/203732183-d74200ee-c03f-4290-a719-6172a2e74173.JPG)
 
