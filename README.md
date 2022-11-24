@@ -4,7 +4,6 @@
 
 ![portada](https://boostlabs.com/wp-content/uploads/2019/09/10-types-of-data-visualization-1.jpg)
 
-![DB1](https://user-images.githubusercontent.com/114177420/203502009-3f5080da-0273-4be9-9d76-a27f589b2535.JPG)
 
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png) 
 
