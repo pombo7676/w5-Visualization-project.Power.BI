@@ -27,36 +27,20 @@ In this project I used a Birmanian Supermarket DataBase I found in Kaggle.
 ## Dashboards:
 
 
-* **Examine the data**.
+* **1. Relation in between Gender, type of customer and date with location, total amount of income and total count of customers**.
 
-* **Break the project down into different steps** - A hundred simple tasks are` better than a single complicated one
+![DB1](https://user-images.githubusercontent.com/114177420/203732011-41ed56a9-ed0d-482a-991d-a8a55278fbaf.JPG)
 
-* **Use the tools in your tool kit** - your knowledge of intermediate Python as well as some of the things you've learned in the bootcamp. This is a great way to start tying everything you've learned together!
+* **2. Relation in between Gender, type of customer and date with location, total amount of income and total count of customers**.
 
-* **Work through the lessons in class** & ask questions when you need to! 
+![DB2](https://user-images.githubusercontent.com/114177420/203732134-65234c33-67bf-4c25-b672-a76a39f49afc.JPG)
 
-* Think about adding relevant figures to your project each day, instead of, you know... _procrastinating_.
+* **3. Relation in between Gender, type of customer and date with location, total amount of income and total count of customers**.
 
-* **Commit early, commit often**, don’t be afraid of doing something incorrectly because you can always roll back to a previous version. Name your commits well.
+![DB3](https://user-images.githubusercontent.com/114177420/203732158-294304e8-b230-4859-8c45-72b3d45bdf43.JPG)
 
-* **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want. GIYF.
+* **4. Relation in between Gender, type of customer and date with location, total amount of income and total count of customers**.
 
-* **Have fun! Never give up! Be proud of your work!**
+![DB4](https://user-images.githubusercontent.com/114177420/203732183-d74200ee-c03f-4290-a719-6172a2e74173.JPG)
 
-## Useful Resources
-:rocket: [Visualization tips](https://boostlabs.com/blog/10-types-of-data-visualization-tools/)
 
-:rocket:[Power BI official learning](https://help.tableau.com/current/guides/get-started-tutorial/es-es/get-started-tutorial-home.htm)
-
-:rocket:[Power BI in Youtube](https://www.youtube.com/watch?v=1c01r_pAZdk&list=PL1N57mwBHtN0JFoKSR0n-tBkUJHeMP2cP)
-
-:rocket:[Power BI templates](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
-
-:rocket:[Markdown format cheatsheet](https://www.markdownguide.org/cheat-sheet)
-:rocket:[Tableau for beginners](https://help.tableau.com/current/guides/get-started-tutorial/es-es/get-started-tutorial-home.htm)
-
-:rocket:[Tableau in Youtube](https://www.youtube.com/c/tableausoftware/featured)
-
-:rocket:[Andy Kriebel's tableau profile](https://public.tableau.com/app/profile/andy.kriebel#!/)
-
-:rocket:[Markdown format cheatsheet](https://www.markdownguide.org/cheat-sheet)
