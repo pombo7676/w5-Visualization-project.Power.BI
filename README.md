@@ -29,17 +29,25 @@ In this project I used a Birmanian Supermarket DataBase I found in Kaggle.
 
 * **1. Relation in between Gender, type of customer and date with location, total amount of income and total count of customers**.
 
-![DB1](https://user-images.githubusercontent.com/114177420/203732011-41ed56a9-ed0d-482a-991d-a8a55278fbaf.JPG)
+In the screenshot for the Dashboard shown below I used as filter just Female customers for check which numbers come asociated with this type of client.
 
-* **2. Relation in between Gender, type of customer and date with location, total amount of income and total count of customers**.
+![DB1](https://user-images.githubusercontent.com/114177420/203733288-88a7f6e0-3708-41e8-a10b-9f70915f50f3.JPG)
 
-![DB2](https://user-images.githubusercontent.com/114177420/203732134-65234c33-67bf-4c25-b672-a76a39f49afc.JPG)
+* **2. Relation of numbers depending on the product line that is sold in every supermarket**.
+
+In the screenshot for the Dashboard shown below I used as filter the line of products "Fashion Accesories" to check where, when and how much have been sold.
+
+![DB2](https://user-images.githubusercontent.com/114177420/203733312-7a680931-bc2a-421d-8c1e-346c260329c8.JPG)
 
 * **3. Relation in between Gender, type of customer and date with location, total amount of income and total count of customers**.
+
+In the screenshot for the Dashboard shown below I used as filter just Female customers for check which numbers come asociated with this type of client
 
 ![DB3](https://user-images.githubusercontent.com/114177420/203732158-294304e8-b230-4859-8c45-72b3d45bdf43.JPG)
 
 * **4. Relation in between Gender, type of customer and date with location, total amount of income and total count of customers**.
+
+In the screenshot for the Dashboard shown below I used as filter just Female customers for check which numbers come asociated with this type of client
 
 ![DB4](https://user-images.githubusercontent.com/114177420/203732183-d74200ee-c03f-4290-a719-6172a2e74173.JPG)
 
