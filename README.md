@@ -47,7 +47,7 @@ In the screenshot for the Dashboard shown below I used as filter the operations 
 
 * **4. Relation in between timeschedule and the gender and place**.
 
-In the screenshot for the Dashboard shown below I used as filter Male customers to check their timeschedule habitudes
+In the screenshot for the Dashboard shown below I used as filter Male customers to check their timeschedule habits
 
 ![DB4](https://user-images.githubusercontent.com/114177420/203732183-d74200ee-c03f-4290-a719-6172a2e74173.JPG)
 
